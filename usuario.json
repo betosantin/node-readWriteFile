@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Nome teste1",
+        "curso": "Engenheiro",
+        "categoria": "Gerente"
+    },
+    {
+        "nome": "Nome teste2",
+        "curso": "Arquiteto",
+        "categoria": "Gestor"
+    },
+    {
+        "nome": "Nome teste3",
+        "curso": "Medico",
+        "categoria": "Usuario"
+    },
+    {
+        "nome": "Nome teste4",
+        "curso": "Dev",
+        "categoria": "Administrador"
+    }
+]
